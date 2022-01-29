@@ -1,0 +1,75 @@
+/*Animations for graphic of skills*/
+
+@keyframes html {
+    from {
+        width: 95%;
+    }
+    to {
+        right: 0;
+    }
+}
+@keyframes css {
+    from {
+        width: 80%;
+    }
+    to {
+        right: 0;
+    }
+}
+@keyframes javascript {
+    from {
+        width: 45%;
+    }
+    to {
+        right: 0;
+    }
+}
+@keyframes php {
+    from {
+        width: 55%;
+    }
+    to {
+        right: 0;
+    }
+}
+@keyframes python {
+    from {
+        width: 50%;
+    }
+    to {
+        right: 0;
+    }
+}
+@keyframes sql {
+    from {
+        width: 65%;
+    }
+    to {
+        right: 0;
+    }
+}
+
+/*Animations for boxs proyects*/
+
+@keyframes fors {
+    0%{background-position:0% 2%}
+    50%{background-position:50% 55%}
+    100%{background-position:100% 99%}
+}
+
+/*Animations of certifications*/
+
+@keyframes lefts {
+    from {
+        width: 100%;
+    }
+    to {
+        left: 0%;
+    }
+}
+
+@keyframes rights {
+    from {
+        width: -100%;
+    }
+}
